@@ -1,0 +1,42 @@
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\obj\Debug\BankApp_0.1_Solution.csprojAssemblyReference.cache
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\obj\Debug\BankApp_0._1_Solution.MainWindow.resources
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\obj\Debug\BankApp_0._1_Solution.Properties.Resources.resources
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\obj\Debug\BankApp_0.1_Solution.csproj.GenerateResource.cache
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\obj\Debug\BankApp_0.1_Solution.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\bin\Debug\BankApp_0.1_Solution.exe.config
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\bin\Debug\BankApp_0.1_Solution.exe
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\bin\Debug\BankApp_0.1_Solution.pdb
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\obj\Debug\BankApp_0.1_Solution.exe
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\obj\Debug\BankApp_0.1_Solution.pdb
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\bin\Debug\Domain.dll
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\bin\Debug\EntityFramework.dll
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\bin\Debug\Domain.pdb
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\bin\Debug\EntityFramework.xml
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\obj\Debug\BankApp_0.1_Solution.csproj.CopyComplete
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\bin\Debug\ServiceLayer.dll
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\bin\Debug\ServiceLayer.pdb
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\bin\Debug\ServiceLayer.dll.config
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\obj\Debug\BankApp_0._1_Solution.LoginForm.resources
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\bin\Debug\BankApp_0.1_Solution.exe.config
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\bin\Debug\BankApp_0.1_Solution.exe
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\bin\Debug\BankApp_0.1_Solution.pdb
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\bin\Debug\Domain.dll
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\bin\Debug\EntityFramework.dll
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\bin\Debug\EntityFramework.SqlServer.dll
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\bin\Debug\ServiceLayer.dll
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\bin\Debug\Domain.pdb
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\bin\Debug\ServiceLayer.pdb
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\bin\Debug\ServiceLayer.dll.config
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\bin\Debug\EntityFramework.xml
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\bin\Debug\EntityFramework.SqlServer.xml
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\obj\Debug\BankApp_0.1_Solution.csprojAssemblyReference.cache
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\obj\Debug\BankApp_0._1_Solution.LoginForm.resources
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\obj\Debug\BankApp_0._1_Solution.MainWindow.resources
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\obj\Debug\BankApp_0._1_Solution.Properties.Resources.resources
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\obj\Debug\BankApp_0.1_Solution.csproj.GenerateResource.cache
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\obj\Debug\BankApp_0.1_Solution.csproj.CoreCompileInputs.cache
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\obj\Debug\BankApp_0.1_Solution.csproj.CopyComplete
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\obj\Debug\BankApp_0.1_Solution.exe
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\BankApp_0.1_Solution\obj\Debug\BankApp_0.1_Solution.pdb

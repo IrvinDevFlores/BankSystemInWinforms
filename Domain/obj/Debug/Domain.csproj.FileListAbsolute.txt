@@ -1,0 +1,24 @@
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\Domain\bin\Debug\Domain.dll
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\Domain\bin\Debug\Domain.pdb
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\Domain\bin\Debug\ServiceLayer.dll
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\Domain\bin\Debug\EntityFramework.dll
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\Domain\bin\Debug\ServiceLayer.pdb
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\Domain\bin\Debug\ServiceLayer.dll.config
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\Domain\bin\Debug\EntityFramework.xml
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\Domain\obj\Debug\Domain.dll
+C:\Users\Ariel\Documents\Source\Repos\BankApp_Winform\BankApp_0.1_Solution\Domain\obj\Debug\Domain.pdb
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\Domain\bin\Debug\Domain.dll
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\Domain\bin\Debug\Domain.pdb
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\Domain\bin\Debug\ServiceLayer.dll
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\Domain\bin\Debug\EntityFramework.dll
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\Domain\bin\Debug\ServiceLayer.pdb
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\Domain\bin\Debug\ServiceLayer.dll.config
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\Domain\bin\Debug\EntityFramework.xml
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\Domain\obj\Debug\Domain.csproj.CopyComplete
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\Domain\obj\Debug\Domain.dll
+E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\Domain\obj\Debug\Domain.pdb
