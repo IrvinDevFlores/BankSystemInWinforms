@@ -9,7 +9,7 @@ namespace ServiceLayer.BankDataContext.Infrastructure.Interfaces
 {
     public class SqlConexion
     {
-        private static string stringConnection = "Data Source=localhost;uid=sa;pwd=7Keylogger7;Initial Catalog=bankdb;Integrated Security=True";
+        private static string stringConnection = "Data Source=localhost;uid=sa;pwd=pass;Initial Catalog=bankdb;Integrated Security=True";
 
         private static SqlConnection _conexion = new SqlConnection(stringConnection);
 
