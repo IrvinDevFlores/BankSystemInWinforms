@@ -5791,11 +5791,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\App Development Projects\\BankApp_Winform\\BankApp_0.1_Solution\\BankUnitTest\\BankUnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\khelpix\\Documents\\GitHub\\BankSystemInWinforms\\BankUnitTest\\BankUnitTest.csproj",
       "projectName": "BankUnitTest",
-      "projectPath": "E:\\App Development Projects\\BankApp_Winform\\BankApp_0.1_Solution\\BankUnitTest\\BankUnitTest.csproj",
+      "projectPath": "C:\\Users\\khelpix\\Documents\\GitHub\\BankSystemInWinforms\\BankUnitTest\\BankUnitTest.csproj",
       "packagesPath": "C:\\Users\\khelpix\\.nuget\\packages\\",
-      "outputPath": "E:\\App Development Projects\\BankApp_Winform\\BankApp_0.1_Solution\\BankUnitTest\\obj\\",
+      "outputPath": "C:\\Users\\khelpix\\Documents\\GitHub\\BankSystemInWinforms\\BankUnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\khelpix\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5811,8 +5811,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "E:\\App Development Projects\\BankApp_Winform\\BankApp_0.1_Solution\\Domain\\Domain.csproj": {
-              "projectPath": "E:\\App Development Projects\\BankApp_Winform\\BankApp_0.1_Solution\\Domain\\Domain.csproj"
+            "C:\\Users\\khelpix\\Documents\\GitHub\\BankSystemInWinforms\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\khelpix\\Documents\\GitHub\\BankSystemInWinforms\\Domain\\Domain.csproj"
             }
           }
         }

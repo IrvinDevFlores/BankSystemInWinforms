@@ -22,3 +22,15 @@ E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\ServiceLayer\ob
 E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
 E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\ServiceLayer\obj\Debug\ServiceLayer.dll
 E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\ServiceLayer\obj\Debug\ServiceLayer.pdb
+C:\Users\khelpix\Documents\GitHub\BankSystemInWinforms\ServiceLayer\bin\Debug\ServiceLayer.dll.config
+C:\Users\khelpix\Documents\GitHub\BankSystemInWinforms\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\Users\khelpix\Documents\GitHub\BankSystemInWinforms\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\Users\khelpix\Documents\GitHub\BankSystemInWinforms\ServiceLayer\bin\Debug\EntityFramework.dll
+C:\Users\khelpix\Documents\GitHub\BankSystemInWinforms\ServiceLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\khelpix\Documents\GitHub\BankSystemInWinforms\ServiceLayer\bin\Debug\EntityFramework.xml
+C:\Users\khelpix\Documents\GitHub\BankSystemInWinforms\ServiceLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\khelpix\Documents\GitHub\BankSystemInWinforms\ServiceLayer\obj\Debug\ServiceLayer.csprojAssemblyReference.cache
+C:\Users\khelpix\Documents\GitHub\BankSystemInWinforms\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\khelpix\Documents\GitHub\BankSystemInWinforms\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+C:\Users\khelpix\Documents\GitHub\BankSystemInWinforms\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Users\khelpix\Documents\GitHub\BankSystemInWinforms\ServiceLayer\obj\Debug\ServiceLayer.pdb

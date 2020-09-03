@@ -22,3 +22,15 @@ E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\Domain\obj\Debu
 E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\Domain\obj\Debug\Domain.csproj.CopyComplete
 E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\Domain\obj\Debug\Domain.dll
 E:\App Development Projects\BankApp_Winform\BankApp_0.1_Solution\Domain\obj\Debug\Domain.pdb
+C:\Users\khelpix\Documents\GitHub\BankSystemInWinforms\Domain\bin\Debug\Domain.dll
+C:\Users\khelpix\Documents\GitHub\BankSystemInWinforms\Domain\bin\Debug\Domain.pdb
+C:\Users\khelpix\Documents\GitHub\BankSystemInWinforms\Domain\bin\Debug\ServiceLayer.dll
+C:\Users\khelpix\Documents\GitHub\BankSystemInWinforms\Domain\bin\Debug\EntityFramework.dll
+C:\Users\khelpix\Documents\GitHub\BankSystemInWinforms\Domain\bin\Debug\ServiceLayer.pdb
+C:\Users\khelpix\Documents\GitHub\BankSystemInWinforms\Domain\bin\Debug\ServiceLayer.dll.config
+C:\Users\khelpix\Documents\GitHub\BankSystemInWinforms\Domain\bin\Debug\EntityFramework.xml
+C:\Users\khelpix\Documents\GitHub\BankSystemInWinforms\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\khelpix\Documents\GitHub\BankSystemInWinforms\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\khelpix\Documents\GitHub\BankSystemInWinforms\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\khelpix\Documents\GitHub\BankSystemInWinforms\Domain\obj\Debug\Domain.dll
+C:\Users\khelpix\Documents\GitHub\BankSystemInWinforms\Domain\obj\Debug\Domain.pdb
